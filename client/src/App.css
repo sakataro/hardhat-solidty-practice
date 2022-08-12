@@ -1,0 +1,12 @@
+body {
+  margin: 0 !important;
+}
+
+.MuiTextField-root {
+  display: block!important;
+}
+
+.MuiInputBase-root {
+  width: 300px!important;
+  margin-left: 3px;
+}
